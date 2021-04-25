@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-image: url(https://64.media.tumblr.com/16c1088ec682fda9bfc6fe5be17fb019/tumblr_p6a7k3rY9T1x36ow0o1_500.gifv);
+}
+
+h1 {
+    color: red;
+
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
+
+img:hover {
+    transform: scale(0.9)
+}
+
+img {
+    transition: transform .1s
+}
+
+
+#mycarousel img {
+    height: 250px;
+    margin-top: 35px;
+
+}
+
+
